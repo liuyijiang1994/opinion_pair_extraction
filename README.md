@@ -1,4 +1,5 @@
 BERT+CRF for mention detection
+
 BiAffine for relation extraction
 
 #### Requirement:
